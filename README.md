@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=150&color=7739c3&section=header&fontColor=eeddee" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=7739c3&section=header&fontColor=eeddee" />
 
 ### Hi, I'm Marcelo Furlanetto
 👾 Sharing my work as a software developer <br>👽 Studying Data Structure and Algorithms, web develoment and computer vision<br>🎓 Coursing Information Systems (4th semester) at FIAP, São Paulo SP - Brazil
