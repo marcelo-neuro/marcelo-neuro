@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=7739c3&section=header&fontColor=eeddee" />
 
 ### Hi, I'm Marcelo Furlanetto
-👾 Sharing my work as a software developer <br>👽 Studying Data Structure and Algorithms, web develoment and computer vision<br>🎓 Coursing Information Systems (5th semester) at FIAP, São Paulo SP - Brazil
+👾 Sharing my work as a software developer <br>👽 Studying Data Structure and Algorithms, web develoment and computer vision<br>🎓 Coursing Information Systems (6th semester) at FIAP, São Paulo SP - Brazil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-furlanetto) 
 
@@ -12,10 +12,3 @@
   <img width="49%" height="170px" src="https://github-readme-stats.vercel.app/api?username=marcelo-neuro&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" />
   <img width="41%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-neuro&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> 
 </div> 
-
----
-[![](https://visitcount.itsvg.in/api?id=marcelo-neuro&icon=5&color=6)](https://visitcount.itsvg.in)
-
-#### 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
