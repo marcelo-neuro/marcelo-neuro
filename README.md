@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=7739c3&section=header&fontColor=eeddee" />
 
 ### Hi, I'm Marcelo Furlanetto
-👾 Sharing my work as a software developer <br>👽 Studying Data Structure and Algorithms, web develoment and computer vision<br>🎓 Coursing Information Systems (6th semester) at FIAP, São Paulo SP - Brazil
+👾 Sharing my work as a software developer <br>👽 Studying Data Structure and Algorithms, web develoment and computer vision<br>🎓 Coursing Information Systems (8th semester) at FIAP, São Paulo SP - Brazil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-furlanetto) 
 
